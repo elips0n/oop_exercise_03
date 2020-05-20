@@ -1,5 +1,5 @@
-#ifndef OOP_HELP_PENTAGON_H
-#define OOP_HELP_PENTAGON_H
+#ifndef OOP_PENTAGON_H
+#define OOP_PENTAGON_H
 #include "Figure.h"
 
 class Pentagon : public Figure{
@@ -10,4 +10,4 @@ public:
     double square() override;
     std::string who_i_am() override;
 };
-#endif //OOP_HELP_PENTAGON_H
+#endif 
