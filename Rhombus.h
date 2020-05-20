@@ -1,5 +1,5 @@
-#ifndef OOP_HELP_RHOMBUS_H
-#define OOP_HELP_RHOMBUS_H
+#ifndef OOP_RHOMBUS_H
+#define OOP_RHOMBUS_H
 #include <utility>
 
 #include "Figure.h"
@@ -12,4 +12,4 @@ public:
     double square() override;
     std::string who_i_am() override;
 };
-#endif //OOP_HELP_RHOMBUS_H
+#endif
