@@ -22,4 +22,4 @@ protected:
     std::string i_am;
 };
 
-#endif //OOP_HELP_FIGURE_H
+#endif 
