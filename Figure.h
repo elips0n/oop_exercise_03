@@ -3,8 +3,8 @@
 #include <cmath>
 #include <string>
 
-#ifndef OOP_HELP_FIGURE_H
-#define OOP_HELP_FIGURE_H
+#ifndef OOP_FIGURE_H
+#define OOP_FIGURE_H
 
 class Figure{
 public:
