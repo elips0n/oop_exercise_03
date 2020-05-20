@@ -1,5 +1,5 @@
-#ifndef OOP_HELP_HEXAGON_H
-#define OOP_HELP_HEXAGON_H
+#ifndef OOP_HEXAGON_H
+#define OOP_HEXAGON_H
 #include "Figure.h"
 
 class Hexagon : public Figure{
@@ -10,4 +10,4 @@ public:
     double square() override;
     std::string who_i_am() override;
 };
-#endif //OOP_HELP_HEXAGON_H
+#endif
