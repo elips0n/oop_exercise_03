@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14.5)
-project(OOP_HELP)
+project(OOP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(OOP_HELP main.cpp Figure.h Rhombus.h Rhombus.cpp Pentagon.h Pentagon.cpp Hexagon.h Hexagon.cpp)
+add_executable(OOP main.cpp Figure.h Rhombus.h Rhombus.cpp Pentagon.h Pentagon.cpp Hexagon.h Hexagon.cpp)
